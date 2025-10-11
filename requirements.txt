@@ -1,0 +1,5 @@
+numpy
+random
+math
+intertools
+matplotlib
